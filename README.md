@@ -113,11 +113,11 @@
 
 - Daniela Moctezuma, Tania A. Ramirez-delReal, Guillermo Ruiz, Othón González-Chávez. "**Video captioning: A comparative review of where we are and which could be the route**". [paper](https://doi.org/10.1016/j.cviu.2023.103671)
 
-- Hao Wang, Libo Zhang, Heng Fan, Tiejian Luo. "**Collaborative three-stream transformers for video captioning**". [paper](https://doi.org/10.1016/j.cviu.2023.103799)[code](https://github.com/wanghao14/COST)
+- Hao Wang, Libo Zhang, Heng Fan, Tiejian Luo. "**Collaborative three-stream transformers for video captioning**". [paper](https://doi.org/10.1016/j.cviu.2023.103799) [code](https://github.com/wanghao14/COST)
 
 ##### Engineering Applications of Artificial Intelligence 
 
-- Juntao Hu, You Yang, Yongzhi An, Lu Yao. "**Dual-Spatial Normalized Transformer for image captioning**". [paper](https://doi.org/10.1016/j.engappai.2023.106384)[code](https://github.com/TBI805/DSNT)
+- Juntao Hu, You Yang, Yongzhi An, Lu Yao. "**Dual-Spatial Normalized Transformer for image captioning**". [paper](https://doi.org/10.1016/j.engappai.2023.106384) [code](https://github.com/TBI805/DSNT)
 
 - Roshni Padate, Amit Jain, Mukesh Kalla, Arvind Sharma. "**Image caption generation using a dual attention mechanism**". [paper](https://doi.org/10.1016/j.engappai.2023.106112)
 
@@ -149,7 +149,7 @@
 
 ##### International Journal of Multimedia Information Retrieval 
 
-- Zetao Jiang, Xiuxian Wang, Zhongyi Zhai, Bo Cheng. "**LG-MLFormer: local and global MLP for image captioning**". [paper](https://doi.org/10.1007/s13735-023-00266-9)[code](https://github.com/wxx1921/LGMLFormer-local-and-global-mlp-for-image-captioning)
+- Zetao Jiang, Xiuxian Wang, Zhongyi Zhai, Bo Cheng. "**LG-MLFormer: local and global MLP for image captioning**". [paper](https://doi.org/10.1007/s13735-023-00266-9) [code](https://github.com/wxx1921/LGMLFormer-local-and-global-mlp-for-image-captioning)
 
 - Lixia Xue, Awen Zhang, Ronggui Wang, Juan Yang. "**PSNet: position-shift alignment network for image caption**". [paper](https://doi.org/10.1007/s13735-023-00307-3)
 
@@ -215,7 +215,7 @@
 
 ##### Pattern Recognition 
 
-- Yiwei Ma, Jiayi Ji, Xiaoshuai Sun, et al. "**Towards local visual modeling for image captioning**". [paper](https://doi.org/10.1016/j.patcog.2023.109420)[code](https://github.com/xmu-xiaoma666/LSTNet)
+- Yiwei Ma, Jiayi Ji, Xiaoshuai Sun, et al. "**Towards local visual modeling for image captioning**". [paper](https://doi.org/10.1016/j.patcog.2023.109420) [code](https://github.com/xmu-xiaoma666/LSTNet)
 
 - Jian Han Lim, Chee Seng Chan. "**Mask-guided network for image captioning**". [paper](https://doi.org/10.1016/j.patrec.2023.07.013)
 
@@ -237,7 +237,7 @@
 
 - Genc Hoxha, Giacomo Scuccato, Farid Melgani. "**Improving Image Captioning Systems With Postprocessing Strategies**". [paper](https://doi.org/10.1109/TGRS.2023.3281334)
 
-- Chenyang Liu, Rui Zhao, Jianqi Chen,et al. "**A Decoupling Paradigm With Prompt Learning for Remote Sensing Image Change Captioning**". [paper](https://doi.org/10.1109/TGRS.2023.3321752)[code](https://github.com/Chen-Yang-Liu/PromptCC)
+- Chenyang Liu, Rui Zhao, Jianqi Chen,et al. "**A Decoupling Paradigm With Prompt Learning for Remote Sensing Image Change Captioning**". [paper](https://doi.org/10.1109/TGRS.2023.3321752) [code](https://github.com/Chen-Yang-Liu/PromptCC)
 
 - Lingwu Meng, Jing Wang, Yang Yang, Liang Xiao. "**Prior Knowledge-Guided Transformer for Remote Sensing Image Captioning**". [paper](https://doi.org/10.1109/TGRS.2023.3328181)
 
@@ -247,11 +247,11 @@
 
 ##### IEEE Transactions on Image Processing 
 
-- Shizhen Chang, Pedram Ghamisi. "**Changes to Captions: An Attentive Network for Remote Sensing Change Captioning**". [paper](https://doi.org/10.1109/TIP.2023.3328224)[code](https://github.com/ShizhenChang/Chg2Cap)
+- Shizhen Chang, Pedram Ghamisi. "**Changes to Captions: An Attentive Network for Remote Sensing Change Captioning**". [paper](https://doi.org/10.1109/TIP.2023.3328224) [code](https://github.com/ShizhenChang/Chg2Cap)
 
-- Yunbin Tu, Liang Li, Li Su, Junping Du, et al. "**Viewpoint-Adaptive Representation Disentanglement Network for Change Captioning**". [paper](https://doi.org/10.1109/TIP.2023.3268004)[code](https://github.com/tuyunbin/VARD)
+- Yunbin Tu, Liang Li, Li Su, Junping Du, et al. "**Viewpoint-Adaptive Representation Disentanglement Network for Change Captioning**". [paper](https://doi.org/10.1109/TIP.2023.3268004) [code](https://github.com/tuyunbin/VARD)
 
-- Bang Yang, Meng Cao, Yuexian Zou. "**Concept-Aware Video Captioning: Describing Videos With Effective Prior Information**". [paper](https://doi.org/10.1109/TIP.2023.3307969)[code](https://github.com/yangbang18/CARE)
+- Bang Yang, Meng Cao, Yuexian Zou. "**Concept-Aware Video Captioning: Describing Videos With Effective Prior Information**". [paper](https://doi.org/10.1109/TIP.2023.3307969) [code](https://github.com/yangbang18/CARE)
 
 ##### IEEE Journal of Biomedical and Health Informatics 
 
@@ -261,7 +261,7 @@
 
 - Kenan E. Ak, Ying Sun, Joo Hwee Lim. "**Learning by Imagination: A Joint Framework for Text-Based Image Manipulation and Change Captioning**". [paper](https://doi.org/10.1109/TMM.2022.3154154)
 
-- Majjed Al-Qatf, Xingfu Wang, Ammar Hawbani,et al. "**Image Captioning With Novel Topics Guidance and Retrieval-Based Topics Re-Weighting**". [paper](https://doi.org/10.1109/TMM.2022.3202690)[code](https://github.com/Alqatf/Human-Evaluation)
+- Majjed Al-Qatf, Xingfu Wang, Ammar Hawbani,et al. "**Image Captioning With Novel Topics Guidance and Retrieval-Based Topics Re-Weighting**". [paper](https://doi.org/10.1109/TMM.2022.3202690) [code](https://github.com/Alqatf/Human-Evaluation)
 
 - Jun Cheng, Fuxiang Wu, Liu Liu, et al. "**InDecGAN: Learning to Generate Complex Images From Captions via Independent Object-Level Decomposition and Enhancement**". [paper](https://doi.org/10.1109/TMM.2023.3256798)
 
@@ -295,11 +295,11 @@
 
 - Ning Wang, Jiahao Xie, Jihao Wu, Mingbo Jia, Linlin Li. "**Controllable Image Captioning via Prompting**". [paper](https://doi.org/10.1609/aaai.v37i2.25360)
 
-- Zhipeng Zhong, Fei Zhou, Guoping Qiu. "**Aesthetically Relevant Image Captioning**". [paper](https://doi.org/10.1609/aaai.v37i3.25485)[code](https://github.com/PengZai/ARIC)
+- Zhipeng Zhong, Fei Zhou, Guoping Qiu. "**Aesthetically Relevant Image Captioning**". [paper](https://doi.org/10.1609/aaai.v37i3.25485) [code](https://github.com/PengZai/ARIC)
 
 ##### ACL
 
-- Hammad A. Ayyubi, Rahul Lokesh, Alireza Zareian, Bo Wu, Shih-Fu Chang. "**Learning from Children: Improving Image-Caption Pretraining via Curriculum**". [paper](https://doi.org/10.18653/v1/2023.findings-acl.846)[code](https://github.com/hayyubi/cur_vl)
+- Hammad A. Ayyubi, Rahul Lokesh, Alireza Zareian, Bo Wu, Shih-Fu Chang. "**Learning from Children: Improving Image-Caption Pretraining via Curriculum**". [paper](https://doi.org/10.18653/v1/2023.findings-acl.846) [code](https://github.com/hayyubi/cur_vl)
 
 - Anwen Hu, Shizhe Chen, Liang Zhang, Qin Jin. "**InfoMetIC: An Informative Metric for Reference-free Image Caption Evaluation**". [paper](https://doi.org/10.18653/v1/2023.acl-long.178)
 
@@ -321,19 +321,19 @@
 
 - Roberto Dessì, Michele Bevilacqua, Eleonora Gualdoni, et al. "**Cross-Domain Image Captioning with Discriminative Finetuning**". [paper](https://doi.org/10.1109/CVPR52729.2023.00670)
 
-- Yusuke Hirota, Yuta Nakashima, Noa Garcia. "**Model-Agnostic Gender Debiased Image Captioning**". [paper](https://doi.org/10.1109/CVPR52729.2023.01458)[code](https://github.com/rebnej/LIBRA)
+- Yusuke Hirota, Yuta Nakashima, Noa Garcia. "**Model-Agnostic Gender Debiased Image Captioning**". [paper](https://doi.org/10.1109/CVPR52729.2023.01458) [code](https://github.com/rebnej/LIBRA)
 
 - Chia-Wen Kuo, Zsolt Kira. "**HAAV: Hierarchical Aggregation of Augmented Views for Image Captioning**". [paper](https://doi.org/10.1109/CVPR52729.2023.01062)
 
 - Jianjie Luo, Yehao Li, Yingwei Pan, Ting Yao, et al. "**Semantic-Conditional Diffusion Networks for Image Captioning**". [paper](https://doi.org/10.1109/CVPR52729.2023.02237)
 
-- Rita Ramos, Bruno Martins, Desmond Elliott, Yova Kementchedjhieva. "**Smallcap: Lightweight Image Captioning Prompted with Retrieval Augmentation**". [paper](https://doi.org/10.1109/CVPR52729.2023.00278)[code](https://github.com/RitaRamo/smallcap)
+- Rita Ramos, Bruno Martins, Desmond Elliott, Yova Kementchedjhieva. "**Smallcap: Lightweight Image Captioning Prompted with Retrieval Augmentation**". [paper](https://doi.org/10.1109/CVPR52729.2023.00278) [code](https://github.com/RitaRamo/smallcap)
 
 - Yuchen Ren, Zhendong Mao, Shancheng Fang, et al. "**Crossing the Gap: Domain Generalization for Image Captioning**". [paper](https://doi.org/10.1109/CVPR52729.2023.00281)
 
-- Sara Sarto, Manuele Barraco, Marcella Cornia, et al. "**Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluation**". [paper](https://doi.org/10.1109/CVPR52729.2023.00668)[code](https://github.com/aimagelab/pacscore)
+- Sara Sarto, Manuele Barraco, Marcella Cornia, et al. "**Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluation**". [paper](https://doi.org/10.1109/CVPR52729.2023.00668) [code](https://github.com/aimagelab/pacscore)
 
-- Zequn Zeng, Hao Zhang, Ruiying Lu, et al. "**ConZIC: Controllable Zero-shot Image Captioning by Sampling-Based Polishing**". [paper](https://doi.org/10.1109/CVPR52729.2023.02247)[code](https://github.com/joeyz0z/ConZIC)
+- Zequn Zeng, Hao Zhang, Ruiying Lu, et al. "**ConZIC: Controllable Zero-shot Image Captioning by Sampling-Based Polishing**". [paper](https://doi.org/10.1109/CVPR52729.2023.02247) [code](https://github.com/joeyz0z/ConZIC)
 
 ##### ECAI
 
@@ -349,9 +349,9 @@
 
 - Koki Maeda, Shuhei Kurita, Taiki Miyanishi, Naoaki Okazaki. "**Query-based Image Captioning from Multi-context 360cdegree Images**". [paper](https://aclanthology.org/2023.findings-emnlp.463)
 
-- Haoyi Qiu, Zi-Yi Dou, Tianlu Wang, Asli Celikyilmaz, Nanyun Peng. "**Gender Biases in Automatic Evaluation Metrics for Image Captioning**". [paper](https://aclanthology.org/2023.emnlp-main.520)[code](https://github.com/PlusLabNLP/clipscore-bias)
+- Haoyi Qiu, Zi-Yi Dou, Tianlu Wang, Asli Celikyilmaz, Nanyun Peng. "**Gender Biases in Automatic Evaluation Metrics for Image Captioning**". [paper](https://aclanthology.org/2023.emnlp-main.520) [code](https://github.com/PlusLabNLP/clipscore-bias)
 
-- Ting Wang, Weidong Chen, Yuanhe Tian, Yan Song, Zhendong Mao. "**Improving Image Captioning via Predicting Structured Concepts**". [paper](https://aclanthology.org/2023.emnlp-main.25)[code](https://github.com/wangting0/SCP-WGCN)
+- Ting Wang, Weidong Chen, Yuanhe Tian, Yan Song, Zhendong Mao. "**Improving Image Captioning via Predicting Structured Concepts**". [paper](https://aclanthology.org/2023.emnlp-main.25) [code](https://github.com/wangting0/SCP-WGCN)
 
 - Guojun Wu. "**ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding**". [paper](https://aclanthology.org/2023.findings-emnlp.982)
 
@@ -369,7 +369,7 @@
 
 - Xilong Wang, Yaofei Wang, Kejiang Chen, et al. "**ICStega: Image Captioning-based Semantically Controllable Linguistic Steganography**". [paper](https://doi.org/10.1109/ICASSP49357.2023.10095722)
 
-- Hong Yu, Yuanqiu Liu, Baokun Qi, Zhaolong Hu, Han Liu. "**End-to-End Non-Autoregressive Image Captioning**". [paper](https://doi.org/10.1109/ICASSP49357.2023.10095338)[code](https://github.com/Liu-Yuanqiu/EENAIC)
+- Hong Yu, Yuanqiu Liu, Baokun Qi, Zhaolong Hu, Han Liu. "**End-to-End Non-Autoregressive Image Captioning**". [paper](https://doi.org/10.1109/ICASSP49357.2023.10095338) [code](https://github.com/Liu-Yuanqiu/EENAIC)
 
 - Yue Zheng, Yali Li, Shengjin Wang. "**Divcon: Learning Concept Sequences for Semantically Diverse Image Captioning**". [paper](https://doi.org/10.1109/ICASSP49357.2023.10094565)
 
@@ -389,7 +389,7 @@
 
 - Runjia Li, Shuyang Sun, Mohamed Elhoseiny, Philip H. S. Torr. "**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images**"? [paper](https://doi.org/10.1109/ICCV51070.2023.01856)
 
-- Kaicheng Yang, Jiankang Deng, Xiang An, et al. "**ALIP: Adaptive Language-Image Pre-training with Synthetic Caption**". [paper](https://doi.org/10.1109/ICCV51070.2023.00273)[code](https://github.com/deepglint/ALIP)
+- Kaicheng Yang, Jiankang Deng, Xiang An, et al. "**ALIP: Adaptive Language-Image Pre-training with Synthetic Caption**". [paper](https://doi.org/10.1109/ICCV51070.2023.00273) [code](https://github.com/deepglint/ALIP)
 
 ##### ICME
 
@@ -421,9 +421,9 @@
 
 - Michael Tschannen, Manoj Kumar, Andreas Steiner, et al. "**Image Captioners Are Scalable Vision Learners Too**". [paper](http://papers.nips.cc/paper_files/paper/2023/hash/92369a01fbe8046a093746389b2c413e-Abstract-Conference.html)
 
-- Xu Yang, Yongliang Wu, Mingzhuo Yang, Haokun Chen, Xin Geng:. "**Exploring Diverse In-Context Configurations for Image Captioning**". [paper](http://papers.nips.cc/paper_files/paper/2023/hash/804b5e300c9ed4e3ea3b073f186f4adc-Abstract-Conference.html)[code](https://github.com/yongliang-wu/ExploreCfg)
+- Xu Yang, Yongliang Wu, Mingzhuo Yang, Haokun Chen, Xin Geng:. "**Exploring Diverse In-Context Configurations for Image Captioning**". [paper](http://papers.nips.cc/paper_files/paper/2023/hash/804b5e300c9ed4e3ea3b073f186f4adc-Abstract-Conference.html) [code](https://github.com/yongliang-wu/ExploreCfg)
 
-- Zihao Yue, Anwen Hu, Liang Zhang, Qin Jin:. "**Learning Descriptive Image Captioning via Semipermeable Maximum Likelihood Estimation**". [paper](http://papers.nips.cc/paper_files/paper/2023/hash/fa1cfe4e956d85e016b1f8f49b189a0b-Abstract-Conference.html)[code](https://github.com/yuezih/SMILE)
+- Zihao Yue, Anwen Hu, Liang Zhang, Qin Jin:. "**Learning Descriptive Image Captioning via Semipermeable Maximum Likelihood Estimation**". [paper](http://papers.nips.cc/paper_files/paper/2023/hash/fa1cfe4e956d85e016b1f8f49b189a0b-Abstract-Conference.html) [code](https://github.com/yuezih/SMILE)
 
 ##### USENIX Security
 
